@@ -3,7 +3,6 @@
 Student at **Moscow Instrument-Making College (Plekhanov Russian University of Economics)** majoring in **10.02.05 Information Security of Automated Systems**, specializing in **Go** since 2023, winner of **CodeRun Winter Challenge** (16th place).
 
 ---
-
 ### 🛠 Tech Stack
 
 **Backend & Core**  
@@ -24,8 +23,4 @@ Student at **Moscow Instrument-Making College (Plekhanov Russian University of E
 
 **Systems & Security Technologies**  
 **`Windows Server`** **`Linux`** **`Network Analysis`** **`Firewalls (NGFW)`** **`Endpoint Protection`** **`Data Recovery`** **`Network Security Protocols`**.
-
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=flexer2006&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flexer2006&layout=compact&theme=radical&hide_border=true)
