@@ -22,5 +22,12 @@ Student at **Moscow Instrument-Making College (Plekhanov Russian University of E
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 **Systems & Security Technologies**  
-**`Windows Server`** **`Linux`** **`Network Analysis`** **`Firewalls (NGFW)`** **`Endpoint Protection`** **`Data Recovery`** **`Network Security Protocols`**.
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=microsoft&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
+![Network Analysis](https://img.shields.io/badge/Network_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
+![Firewalls](https://img.shields.io/badge/Firewalls_(NGFW)-E02128?style=flat-square&logo=fortinet&logoColor=white) 
+![Endpoint Protection](https://img.shields.io/badge/Endpoint_Protection-00A4EF?style=flat-square&logo=bitdefender&logoColor=white) 
+![Data Recovery](https://img.shields.io/badge/Data_Recovery-FF9900?style=flat-square&logo=futurelearn&logoColor=white) 
+![Security Protocols](https://img.shields.io/badge/Security_Protocols-000000?style=flat-square&logo=webauthn&logoColor=white)
+
 ---
