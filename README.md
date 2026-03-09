@@ -1,6 +1,6 @@
 # Andrei Pylnev 🥷
 
-Student at **Moscow Instrument-Making College (Plekhanov Russian University of Economics)** majoring in **10.02.05 Information Security of Automated Systems**, specializing in **Go** since 2023, winner of **CodeRun Winter Challenge** (16th place).
+Student at **Moscow Instrument-Making College (Plekhanov Russian University of Economics)** majoring in **Information Security**, specializing in **Go** since 2023, winner of **CodeRun Winter Challenge**.
 
 ---
 ### 🛠 Tech Stack
